@@ -3,7 +3,7 @@
   <a href="https://portfolio-web-tau-beryl.vercel.app/" target="_blank">Isha-Portfolio</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/Untitled_design__5_-removebg-preview.png" />
 </div>
 
 <br/>
